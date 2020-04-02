@@ -1,7 +1,7 @@
 import random
 
 def setup():
-    print("All peripherals and sensors have been set up succesfully!")
+    print("All peripherals and sensors have been set up successfully!")
     return True
 
 def led_on():
